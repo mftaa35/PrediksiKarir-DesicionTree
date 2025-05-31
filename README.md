@@ -7,7 +7,7 @@ Dataset yang digunakan merupakan data simulasi dengan skor berbagai keahlian dar
 -- Cara Menjalankan Kode --
 1. Buka Google Colab (https://colab.research.google.com/)
 
-2. Upload file PrediksiKarirfix.ipynb
+2. Upload file PrediksiKarirAi.ipynb
 
 3. Jalankan sel kode satu per satu dari atas ke bawah
 
