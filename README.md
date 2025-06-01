@@ -15,9 +15,9 @@ Dataset yang digunakan merupakan data simulasi dengan skor berbagai keahlian dar
 
 Atau jika menggunakan file CSV eksternal:
 
-1. Pastikan file sample_dataset_career.csv tersedia
+1. Pastikan file karir_rekomendasi.csv tersedia
 
-2. Gunakan pd.read_csv("sample_dataset_career.csv") untuk memuat data
+2. Gunakan pd.read_csv("karir_rekomendasi.csv") untuk memuat data
 
 -- Fitur Utama --
 ✅ Training model Decision Tree dari dataset keahlian-karir
